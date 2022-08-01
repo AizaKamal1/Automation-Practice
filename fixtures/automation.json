@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Ali",
+      "s_name": "search_query=Ali",
+      "alertm": "No results were found for your search \"Ali\"",
+      "category": "controller=category",
+      "size": "size-s",
+      "product_count": 5,
+      "cartsuccess": "Product successfully added to your shopping cart"
+    },
+
+    {
+      "name": "hamza",
+      "s_name": "search_query=hamza",
+      "alertm": "No results were found for your search \"hamza\"",
+      "category": "controller=category",
+      "size": "size-s",
+      "product_count": 5
+    }
+]
